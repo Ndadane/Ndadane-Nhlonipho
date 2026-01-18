@@ -39,14 +39,6 @@ I'm an **ICT Application Development graduate** passionate about building secure
 
 ---
 
-## 📊 GitHub Stats
-
-![Nhlonipho's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
----
-
 ## 🏆 Certifications
 
 - 🥇 **Oracle Cloud Infrastructure (OCI) Foundations Associate** - Oracle (2025)
@@ -90,7 +82,7 @@ const nhlonipho = {
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Ndadane&color=brightgreen)
 
 ---
 
