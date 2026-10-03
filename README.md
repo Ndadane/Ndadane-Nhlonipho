@@ -1,12 +1,8 @@
 # Hi there, I'm Nhlonipho Ndadane 👋
 
 ## 🚀 About Me
-I'm an **ICT Application Development graduate** passionate about building secure, scalable full-stack applications. Currently specializing in **C#, ASP.NET Core, and cloud technologies** and I have completed my diploma at Durban University of Technology.
+I'm an **Entry Level Software Developer** passionate about building secure, scalable full-stack applications. Currently specializing in **C#, ASP.NET Core,Python, Flask and cloud technologies** and I have completed my diploma at Durban University of Technology.
 
-- 🔭 Currently working on: **Secure Student Management System** (PHP, MySQL, RESTful APIs)
-- 🌱 Currently learning: **React, Azure, Oracle Cloud Infrastructure**
-- 🎯 2026 Goals: Land my first junior developer role and contribute to open-source
-- ⚡ Fun fact: Competitive chess player who applies strategic thinking to code optimization
 - 📍 Location: Durban, South Africa (Open to relocation)
 
 ---
